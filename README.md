@@ -129,7 +129,7 @@ Built an interactive dashboard for business decision-making.
 Sapna Gupta
 
 💼 LinkedIn:https://www.linkedin.com/in/sapna-gupta-/
-💻 GitHub: https://github.com/gupta7977290910-droid/Amazon-Sales-Performance-Dashboard/edit/main/README.md
+💻 GitHub: https://github.com/gupta7977290910-droid
 📧 Email: gupta7977290910@gmail.com
 
 
