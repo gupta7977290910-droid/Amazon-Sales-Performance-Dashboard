@@ -1,4 +1,5 @@
 Amazon Sales Performance Dashboard | Power BI
+
 📌 Project Overview
 
 This project presents an interactive Amazon Sales Performance Dashboard developed in Microsoft Power BI. The dashboard provides actionable insights into sales performance, product profitability, customer behavior, and regional trends through an intuitive three-page report. It enables users to explore key business metrics using interactive filters and dynamic visualizations for better decision-making.
@@ -60,6 +61,7 @@ Category
 Sub-Category
 Month
 Year
+
 📍 Page 3 – Customer & Regional Analysis
 
 Key KPIs
@@ -90,6 +92,9 @@ Power Query
 DAX
 Data Modeling
 Data Visualization
+
+
+
 📈 Skills Demonstrated
 Data Cleaning
 Data Modeling
@@ -100,17 +105,7 @@ Business Intelligence
 Interactive Reporting
 Data Visualization
 
-📂 Project Structure
-Amazon-Sales-Performance-Dashboard/
-│
-├── Amazon Sales Dashboard.pbix
-├── Amazon Sales Dataset.xlsx
-├── Dashboard Screenshots/
-│   ├── .png
-│   ├── Page2_Product_Analysis.png
-│   └── Page3_Customer_Regional_Analysis.png
-├── README.md
-└── LICENSE
+
 
 📷 Dashboard Screenshots
 Page 1 – Amazon_Salesperformance
