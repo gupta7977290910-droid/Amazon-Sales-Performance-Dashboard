@@ -120,7 +120,7 @@ Page 2 – Product_Analysis
 ![Page 2](Product_Analysis.png)
 
 Page 3 – Customer & Regional Analysis
-![Page 3](Customer_Analysis.png)
+![Page 3](Customer_Regional.png)
 
 💡 Key Business Insights
 Monitored sales, profit, and customer performance using KPI cards.
